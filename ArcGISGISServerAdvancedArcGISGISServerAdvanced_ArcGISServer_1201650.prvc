@@ -1,0 +1,24 @@
+// ArcGISGISServerAdvanced_ArcGISServer_1201650.prvc
+
+//Provision
+Provision ID=EB66E2D8-B564-49D3-9E578898D467305D
+Comment=GEOTest - ArcGIS Enterprise 11.0
+
+
+// User Information
+First Name=Nick
+Last Name=Lawalin
+Organization=Geo Jobe GIS Consulting
+Department=
+Email=nlawalin@geo-jobe.com
+Address 1=302 Courthouse Rd Ste H Suite H
+City=Gulfport
+State/Province=MS
+Location Code=US
+Location=US
+Zip/Postal Code=39507-1890
+Phone Number=615.883.0085
+// Version=11.0
+
+// Features and authorization numbers
+ArcGIS Server=ECP395439279
